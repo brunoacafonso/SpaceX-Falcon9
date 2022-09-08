@@ -9,4 +9,4 @@
  Introduction to the problem and general methodology used.
  
  ### Webscraping Falcon 9 and Heavy Falcon launches
- An alternative way to obtain data on SpaceX launches. Instead of using the API, in this file we web scrape the data from a Wikipedia web page.
+ An alternative way to obtain data on SpaceX launches. Instead of using the API from the SpaceX website, in this file we web scrape the data from a Wikipedia web page.
