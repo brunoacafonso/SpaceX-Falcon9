@@ -15,4 +15,4 @@
  Data standardization, split into training and test data, model fit using logistic regression, decision tree, support vector machine and $k$-nearest neighbours. This file also includes details on the hyperparameter grids used in each model.
  
  ### Webscraping Falcon 9 and Heavy Falcon launches
- An alternative way to obtain data on SpaceX launches. Instead of using the API from the SpaceX website, in this file we web scrape the data from a Wikipedia web page.
+ An alternative way to obtain data on SpaceX launches. Instead of using the API from the SpaceX website, in this file the data was scraped from a Wikipedia web page.
