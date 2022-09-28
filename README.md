@@ -14,5 +14,8 @@
  ### Model Development
  Data standardization, split into training and test data, model fit using logistic regression, decision tree, support vector machine and $k$-nearest neighbours. This file also includes details on the hyperparameter grids used in each model.
  
+ ### Launch Sites Location Analysis
+ Analysis of launch site location in terms of its distance to the nearest lines of communication, the coastline and to the nearest city.
+ 
  ### Webscraping Falcon 9 and Heavy Falcon launches
  An alternative way to obtain data on SpaceX launches. Instead of using the API from the SpaceX website, in this file the data was scraped from a Wikipedia web page.
