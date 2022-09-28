@@ -4,6 +4,8 @@
  
  However, I have improved not only many of the analyses in order to improve that prediction, but I have also increased the detail in the explanations of what is being done in each line of code. This repository is composed of an introduction/methodology file, several exploratory data analyses files and a results/discussion file coming from the modeling approaches used.
  
+ **I strongly recommend the use of [NB Viewer](https://nbviewer.org/) to visualize the files so that the images and the maps included can become visible.**
+ 
  ## Contents
  ### The Problem and The Approach
  Introduction to the problem and general methodology used.
